@@ -1,0 +1,109 @@
+.SectionFContainer{
+   display: flex;
+   flex-wrap: wrap;
+  justify-content: center;
+}
+
+.BackgroundImages{
+   z-index: 0;
+}
+
+.SectionFItems{
+   width: 571px;
+   z-index: 1;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   margin-top: -460px;
+   margin-bottom: 40px;
+   flex-direction: column;
+}
+
+.SectionFH4{
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   cursor: pointer;
+   color: #23A6F0;
+   text-align: center;
+   letter-spacing: 0.2px;
+}
+
+.SectionFh1{
+   font-size: 40px;
+   font-weight: 700;
+   line-height: 50px;
+   text-align: center;
+   cursor: pointer;
+   letter-spacing: 0.2px;
+}
+
+.SectionFParagraph{
+   width: 420px;
+   font-size: 14px;
+   font-weight: 400;
+   text-align: center;
+   cursor: pointer;
+   line-height: 20px;
+   letter-spacing: 0.2px;
+}
+
+.SectionFPayment{
+   font-size: 24px;
+   font-weight: 700;
+   line-height: 32px;
+   cursor: pointer;
+   text-align: center;
+   color: #23856D;
+   letter-spacing: 0.1px;
+}
+
+.SectionFButton{
+    width: 292px;
+    padding: 25px;
+    font-size: 14px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 5px;
+    color: #FFFFFF;
+    border: 1px solid #23A6F0;;
+    background-color: #23A6F0;; 
+}
+
+.SectionFooterContain{
+   /* background-color: #FAFAFA; */
+   background-color: #23A6F0;;
+}
+
+.SectionFooter{
+   display: flex;
+   flex-wrap: wrap;
+   background-color: #FAFAFA;
+}
+
+.SectionFooters{
+   width: 1050px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 30px;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-between;
+   Padding: 40px, 0px, 40px, 0px;
+}
+
+.SectionFooterH1{
+   font-size: 24px;
+   font-weight: 700;
+   line-height: 32px;
+   cursor: pointer;
+   color: #252B42;
+   letter-spacing: 0.1px;
+}
+
+.SectionFooterIcons{
+   display: flex;
+   flex-wrap: wrap;
+   width: 130px;
+  justify-content: space-between;
+}

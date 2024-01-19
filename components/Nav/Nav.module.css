@@ -1,0 +1,56 @@
+.NavContainer{
+   height: 30px;
+   display: flex;
+   flex-wrap: wrap;
+   padding: 30px;
+   align-content: center;
+   justify-content: space-between;
+   background-color: #FFFFFF;
+}
+
+.HOne{
+   width: 108px;
+   height: 32px;
+   font-size: 24px;
+   line-height: 32px;
+   font-weight: 700;
+   letter-spacing: 0.1px;
+   color: #252B42;
+   font-family: 'Montserrat', sans-serif;
+}
+
+.ListItems{
+   width: 1155px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.LinkLists{
+   width: 361px;
+   height: 26px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 20px;
+   justify-content: space-between;
+}
+
+.linklist{
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   text-align: center;
+   letter-spacing: 0.2px;
+   color: #737373;
+   text-decoration-line: none;
+}
+
+.RegisterForm{
+   width: 324px;
+   height: 26px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 20px;
+   justify-content: space-between;
+}
+

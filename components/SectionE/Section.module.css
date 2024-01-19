@@ -1,0 +1,92 @@
+.SectionECotainer{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   flex-direction: row;
+}
+
+.ProfileItems{
+   width: 1120px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 80px;
+   margin-bottom: 80px;
+   justify-content: space-between;
+}
+
+.ProfileLists{
+   width: 438px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   flex-direction: column;
+}
+
+.ProfileHeader{
+   font-size: 24px;
+   font-weight: 700;
+   line-height: 32px;
+   cursor: pointer;
+   text-align: center;
+   color: #252B42;
+   letter-spacing: 0.1px;
+}
+
+.profileImage{
+   margin-top: 30px;
+}
+
+.ProfileParagraph{
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   text-align: center;
+   color: #737373;
+}
+
+.profileStar{
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 30px;
+}
+
+.ProfileDetails{
+   display: flex;
+   flex-wrap: wrap;
+   line-height: 20px;
+   flex-direction: column;
+
+}
+
+.ProfileName{
+   font-size: 14px;
+   font-weight: 700;
+   cursor: pointer;
+   line-height: 24px;
+   color: #23A6F0;
+   text-align: center;
+   letter-spacing: 0.2px;
+}
+
+.ProfileOwner{
+   font-size: 14px;
+   font-weight: 700;
+   cursor: pointer;
+   line-height: 24px;
+   color: #252B42;
+   text-align: center;
+   letter-spacing: 0.2px;
+}
+
+
+
+
+.ProfilesImages{
+   width: 464px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+
+

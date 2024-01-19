@@ -1,0 +1,873 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./components/Navbar/navbar.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.navbar_navbarContainer__dPJEy{
+   height: 15px;
+   display: flex;
+   flex-wrap: wrap;
+   padding: 30px;
+   align-content: center;
+   justify-content: space-between;
+   background-color: #23856D;
+}
+
+.navbar_Icons__DvO1L{
+   font-size: 20px;
+   color: #FFFFFF;
+   margin-top: 2px;
+}
+
+.navbar_contacts__I6FZK{
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.navbar_H1contact__tL5UD{
+  width: 125px;
+  display: flex;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 15px;
+  cursor: pointer;
+  letter-spacing: 0.2px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  justify-content: space-between;
+}
+
+.navbar_Gmail__REHnR{
+   width: 235px;
+   display: flex;
+   font-size: 14px;
+   font-weight: 700;
+   cursor: pointer;
+   line-height: 24px;
+   letter-spacing: 0.2px;
+   color: #FFFFFF;
+   margin-left: 30px;
+   justify-content: space-between;
+   font-family: 'Montserrat', sans-serif;
+}
+
+.navbar_follow__9rMTd h1{ 
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   color: #FFFFFF;
+   margin-top: 15px;
+   cursor: pointer;
+   font-family: 'Montserrat', sans-serif;
+}
+
+.navbar_MediaIcons__Yi3SH{
+   width: 230px;
+   height: 24px;
+   display: flex;
+   flex-wrap: wrap;
+   cursor: pointer;
+   margin-top: 15px;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+.navbar_followSpan__tm9Ow{
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   cursor: pointer;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+}
+
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./components/Nav/Nav.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************/
+.Nav_NavContainer__T_SLW{
+   height: 30px;
+   display: flex;
+   flex-wrap: wrap;
+   padding: 30px;
+   align-content: center;
+   justify-content: space-between;
+   background-color: #FFFFFF;
+}
+
+.Nav_HOne__npDnX{
+   width: 108px;
+   height: 32px;
+   font-size: 24px;
+   line-height: 32px;
+   font-weight: 700;
+   letter-spacing: 0.1px;
+   color: #252B42;
+   font-family: 'Montserrat', sans-serif;
+}
+
+.Nav_ListItems__ULVXO{
+   width: 1155px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.Nav_LinkLists__5h6cX{
+   width: 361px;
+   height: 26px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 20px;
+   justify-content: space-between;
+}
+
+.Nav_linklist__p1_fu{
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   text-align: center;
+   letter-spacing: 0.2px;
+   color: #737373;
+   -webkit-text-decoration-line: none;
+           text-decoration-line: none;
+}
+
+.Nav_RegisterForm__exSxz{
+   width: 324px;
+   height: 26px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 20px;
+   justify-content: space-between;
+}
+
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./components/SectionA/Section.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************/
+.Section_SectionAContainerMain__kFP_6{
+     width: 100%;
+     display: flex;
+     flex-wrap: wrap;
+     padding-bottom: 50px;
+     justify-content: center;
+}
+
+.Section_SectionAContainer__NvVxo{
+   width: 1146px;
+   height: 616px;
+   display: flex;
+   margin-top: 30px;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.Section_SectionImage__yfMOL{
+   width: 452px;
+   height: 615px;
+}
+
+.Section_SectionImages__nkgCv{
+   width: 680px;
+   height: 615px;
+   display: flex;
+   flex-wrap: nowrap;
+   flex-direction: column;
+   justify-content: space-between;
+}
+
+.Section_ImageOne__geGBK{
+   width: 680px;
+   height: 300px;
+}
+
+.Section_ImageTwo__eetsj{
+   width: 680px;
+   height: 300px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.Section_ImageChild__m9Xv5{
+   width: 332px;
+   height: 300px;
+}
+
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./components/SectionB/Section.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************/
+.Section_SectionBContainer__3YI0D{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    flex-direction: column;
+}
+
+.Section_SectionBHeader___GkW8{
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   flex-direction: column;
+   justify-content: center;
+}
+
+.Section_HeaderLine__IPBYe{
+   font-size: 20px;
+   line-height: 30px;
+   text-align: center;
+   font-weight: 400;
+   cursor: pointer;
+   color: #737373;
+   letter-spacing: 0.2px;
+   font-family: 
+   Montserrat;
+}
+
+.Section_HeaderLine2__2AYPh{
+   font-size: 24px;
+   font-weight: 700;
+   text-align: center;
+   line-height: 32px;
+   cursor: pointer;
+   letter-spacing: 0.1px;
+   color:  #252B42;
+   font-family: 
+   Montserrat;
+}
+
+.Section_HeaderLineP__aR5u4{
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 20px;
+   text-align: center;
+   cursor: pointer;
+   letter-spacing: 0.2px;
+   color: #737373;
+   font-family: 
+   Montserrat;
+}
+
+.Section_ContainerCards__CbdWe{
+   width: 1038px;
+   height: 860px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 10px;
+   padding: 25px;
+   justify-content: space-between;
+}
+
+.Section_CardsLists__1tI0q{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.Section_CardsItems__v_fDM{
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   flex-direction: column;
+}
+
+.Section_styleH3__bJ2ZL{
+   font-size: 16px;
+   font-weight: 700;
+   text-align: center;
+   letter-spacing: 0.1px;
+   color: #252B42;
+   cursor: pointer;
+   line-height: 24px;
+}
+
+.Section_styleP___Vmup{
+   font-size: 14px;
+   font-weight: 700;
+   text-align: center;
+   letter-spacing: 0.2px;
+   color: #737373;
+   line-height: 24px;
+  cursor: pointer;
+}
+
+.Section_CardsPayment__TZ8f5{
+   width: 108px;
+   display: flex;
+   flex-wrap: wrap;
+   padding: 5px, 3px, 5px, 3px;
+   justify-content: space-between;
+}
+
+.Section_PaymentColor1__JtHrG{
+   font-size: 16px;
+   font-weight: 700;
+   text-align: center;
+   color: #BDBDBD;
+   letter-spacing: 0.1px;
+  line-height: 24px;
+  cursor: pointer;
+}
+
+.Section_PaymentColor2__xItvP{
+   font-size: 16px;
+   font-weight: 700;
+   text-align: center;
+   color: #23856D;
+   letter-spacing: 0.1px;
+  line-height: 24px;
+  cursor: pointer;
+}
+/*!**********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./components/SectionC/Section.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************/
+.Section_SectionCContainer__6yvPT{
+   display: flex;
+   flex-wrap: wrap;
+   align-content: center;
+   flex-direction: column;
+}
+
+.Section_SectionBHeader__f7j8a{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Section_HeaderLine__k8hFi{
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  font-weight: 400;
+  cursor: pointer;
+  color: #737373;
+  letter-spacing: 0.2px;
+  font-family: 
+  Montserrat;
+}
+
+.Section_HeaderLine2__NcRgv{
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+  line-height: 32px;
+  cursor: pointer;
+  letter-spacing: 0.1px;
+  color:  #252B42;
+  font-family: 
+  Montserrat;
+}
+
+.Section_HeaderLineP__kDyvZ{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: center;
+  cursor: pointer;
+  letter-spacing: 0.2px;
+  color: #737373;
+  font-family: 
+  Montserrat;
+}
+
+.Section_SectionCImages__vqL8M{
+   display: flex;
+   flex-wrap: wrap;
+   margin-bottom: 30px;
+   justify-content: center;
+}
+
+.Section_SectionCImagesList__73fhv{
+   width: 1050px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 30px;
+   justify-content: space-between;
+}
+
+.Section_SectionCImageItems__MWp2J{
+   width: 315px;
+   height: 254px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   flex-direction: column;
+}
+
+.Section_ImagesH1__TJqC3{
+   font-size: 24px;
+   font-weight: 700;
+   line-height: 32px;
+   text-align: center;
+   letter-spacing: 0.1px;
+   cursor: pointer;
+   color: #252B42;
+}
+
+.Section_ImagesParagrap__ElQZR{
+   width: 225px;
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 20px;
+   cursor: pointer;
+   text-align: center;
+   color: #737373;
+   letter-spacing: 0.2px;
+}
+
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./components/SectionD/Section.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************/
+.Section_SectionDContainer__JSDam{
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   flex-direction: column;
+}
+
+.Section_SectionDHeader__3IdLN{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Section_HeaderParagrph__iq0AY{
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   cursor: pointer;
+   text-align: center;
+   color: #23A6F0;
+   letter-spacing: 0.2px;
+}
+
+.Section_headerH1__95czn{
+   font-size: 40px;
+   font-weight: 700;
+   color: #252B42;
+   line-height: 50px;
+   cursor: pointer;
+   letter-spacing: 0.2px;
+}
+
+.Section_SectionDCardList___CPdN{
+   width: 1080px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 30px;
+   margin-bottom: 40px;
+   justify-content: space-between;
+}
+
+.Section_SectionCardsLists___VdVt{
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   flex-direction: column;
+}
+
+.Section_ListsButton__OlKE9{
+   width: 160px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-left: -110px;
+   justify-content: space-between;
+}
+
+.Section_SectionDButtons__UUu0Q{
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  cursor: pointer;
+  letter-spacing: 0.2px;
+  color: #8EC2F2;
+}
+
+.Section_SectionDButton__355ur{
+   font-size: 12px;
+   font-weight: 400;
+   line-height: 16px;
+   cursor: pointer;
+   letter-spacing: 0.2px;
+   color: #737373;
+ }
+ 
+.Section_ListButtonH1__jiki4{
+   width: 280px;
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 30px;
+   cursor: pointer;
+   color: #252B42;
+   letter-spacing: 0.2px;
+}
+
+.Section_ListButtonParagrh__ZQo5f{
+   width: 280px;
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 20px;
+   cursor: pointer;
+   color: #737373;
+   letter-spacing: 0.2px;
+}
+
+.Section_SectionDTimmer__C9Ojt{
+   width: 289px;
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+.Section_SectionDClock__wxhCF{
+   width: 110px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.Section_SectionDComment__rD2V7{
+   width: 110px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.Section_ClockGallary__dQDsg{
+   width: 90px;
+   font-size: 12px;
+   font-weight: 400;
+   line-height: 16px;
+   cursor: pointer;
+   color: #737373;
+   letter-spacing: 0.2px;
+}
+
+.Section_SectionDClick__OS4TT{
+   width: 105px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-left: -170px;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.Section_SectionDLearn__iVFiO{
+   font-size: 14px;
+   font-weight: 700;
+   cursor: pointer;
+   line-height: 24px;
+   letter-spacing: 0.3px;
+}
+/*!**********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./components/SectionE/Section.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************/
+.Section_SectionECotainer__y_22i{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   flex-direction: row;
+}
+
+.Section_ProfileItems__iLlrR{
+   width: 1120px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 80px;
+   margin-bottom: 80px;
+   justify-content: space-between;
+}
+
+.Section_ProfileLists__L08xO{
+   width: 438px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   flex-direction: column;
+}
+
+.Section_ProfileHeader__MA0rz{
+   font-size: 24px;
+   font-weight: 700;
+   line-height: 32px;
+   cursor: pointer;
+   text-align: center;
+   color: #252B42;
+   letter-spacing: 0.1px;
+}
+
+.Section_profileImage__dGWNi{
+   margin-top: 30px;
+}
+
+.Section_ProfileParagraph__SDTrl{
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   text-align: center;
+   color: #737373;
+}
+
+.Section_profileStar__EjK3J{
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 30px;
+}
+
+.Section_ProfileDetails__k2cs_{
+   display: flex;
+   flex-wrap: wrap;
+   line-height: 20px;
+   flex-direction: column;
+
+}
+
+.Section_ProfileName__kG5ht{
+   font-size: 14px;
+   font-weight: 700;
+   cursor: pointer;
+   line-height: 24px;
+   color: #23A6F0;
+   text-align: center;
+   letter-spacing: 0.2px;
+}
+
+.Section_ProfileOwner__kDliH{
+   font-size: 14px;
+   font-weight: 700;
+   cursor: pointer;
+   line-height: 24px;
+   color: #252B42;
+   text-align: center;
+   letter-spacing: 0.2px;
+}
+
+
+
+
+.Section_ProfilesImages__pFJ0H{
+   width: 464px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+
+
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./components/SectionF/Section.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************/
+.Section_SectionFContainer__jUh6T{
+   display: flex;
+   flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Section_BackgroundImages___spOT{
+   z-index: 0;
+}
+
+.Section_SectionFItems__bHKsQ{
+   width: 571px;
+   z-index: 1;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   margin-top: -460px;
+   margin-bottom: 40px;
+   flex-direction: column;
+}
+
+.Section_SectionFH4__JdFDT{
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   cursor: pointer;
+   color: #23A6F0;
+   text-align: center;
+   letter-spacing: 0.2px;
+}
+
+.Section_SectionFh1__Gl1r4{
+   font-size: 40px;
+   font-weight: 700;
+   line-height: 50px;
+   text-align: center;
+   cursor: pointer;
+   letter-spacing: 0.2px;
+}
+
+.Section_SectionFParagraph__5oyzL{
+   width: 420px;
+   font-size: 14px;
+   font-weight: 400;
+   text-align: center;
+   cursor: pointer;
+   line-height: 20px;
+   letter-spacing: 0.2px;
+}
+
+.Section_SectionFPayment__wEbGK{
+   font-size: 24px;
+   font-weight: 700;
+   line-height: 32px;
+   cursor: pointer;
+   text-align: center;
+   color: #23856D;
+   letter-spacing: 0.1px;
+}
+
+.Section_SectionFButton__VqLOe{
+    width: 292px;
+    padding: 25px;
+    font-size: 14px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 5px;
+    color: #FFFFFF;
+    border: 1px solid #23A6F0;;
+    background-color: #23A6F0;; 
+}
+
+.Section_SectionFooterContain__sa9mG{
+   /* background-color: #FAFAFA; */
+   background-color: #23A6F0;;
+}
+
+.Section_SectionFooter__kNer2{
+   display: flex;
+   flex-wrap: wrap;
+   background-color: #FAFAFA;
+}
+
+.Section_SectionFooters__le5ZD{
+   width: 1050px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 30px;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-between;
+   Padding: 40px, 0px, 40px, 0px;
+}
+
+.Section_SectionFooterH1__fuUVo{
+   font-size: 24px;
+   font-weight: 700;
+   line-height: 32px;
+   cursor: pointer;
+   color: #252B42;
+   letter-spacing: 0.1px;
+}
+
+.Section_SectionFooterIcons__QQh87{
+   display: flex;
+   flex-wrap: wrap;
+   width: 130px;
+  justify-content: space-between;
+}
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./components/Footer/Footer.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.Footer_FooterContainer__6q2MG{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+
+.Footer_FooterItems__sEFTF{
+   width: 1050px;
+   margin-top: 60px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.Footer_FooterLists__JMZUR{
+   gap: 20px;
+   width: 148px;
+}
+
+.Footer_FooterHeader__jWpCD{
+   font-size: 16px;
+   font-weight: 700;
+   line-height: 24px;
+   cursor: pointer;
+   letter-spacing: 0.1px;
+    color: #252B42;
+}
+
+.Footer_FooterParent__v54ZX{
+   width: 95px;
+}
+
+.Footer_FooterChild__sIa0Q{
+   width: 148px;
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   cursor: pointer;
+   color: #737373;
+   letter-spacing: 0.2px;
+}
+
+.Footer_FooterListInput__sYLHY{
+   width: 250px;
+   height: 50px;
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: column;
+   border-radius: 5px;
+   border: 1px solid  #E6E6E6; 
+   background-color: #E6E6E6; 
+}
+
+.Footer_FooterInputs__GbO_g{
+   width: 170px;
+   height: 58px;
+   border-radius: 5px;
+   border: 1px solid  #E6E6E6; 
+   background-color: #E6E6E6; 
+}
+
+.Footer_FooterButton__N_6xs{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    border-radius: 5px;
+    color: #FFFFFF;
+    border: 1px solid #23A6F0;;
+    background-color: #23A6F0;; 
+}
+
+.Footer_Styles__WZ00T.Footer_FoooterLastDivs__LsKza{
+   background-color: #E6E6E6; 
+}
+
+.Footer_FooterLastDiv__9fnlo{
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+
+.Footer_FooterLastparagrph__FrvgR{
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   cursor: pointer;
+   color: #737373;
+   letter-spacing: 0.2px;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/page.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************/
+

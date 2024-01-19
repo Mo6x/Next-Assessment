@@ -1,0 +1,49 @@
+.SectionAContainerMain{
+     width: 100%;
+     display: flex;
+     flex-wrap: wrap;
+     padding-bottom: 50px;
+     justify-content: center;
+}
+
+.SectionAContainer{
+   width: 1146px;
+   height: 616px;
+   display: flex;
+   margin-top: 30px;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.SectionImage{
+   width: 452px;
+   height: 615px;
+}
+
+.SectionImages{
+   width: 680px;
+   height: 615px;
+   display: flex;
+   flex-wrap: nowrap;
+   flex-direction: column;
+   justify-content: space-between;
+}
+
+.ImageOne{
+   width: 680px;
+   height: 300px;
+}
+
+.ImageTwo{
+   width: 680px;
+   height: 300px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.ImageChild{
+   width: 332px;
+   height: 300px;
+}
+

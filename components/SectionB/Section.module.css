@@ -1,0 +1,121 @@
+.SectionBContainer{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    flex-direction: column;
+}
+
+.SectionBHeader{
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   flex-direction: column;
+   justify-content: center;
+}
+
+.HeaderLine{
+   font-size: 20px;
+   line-height: 30px;
+   text-align: center;
+   font-weight: 400;
+   cursor: pointer;
+   color: #737373;
+   letter-spacing: 0.2px;
+   font-family: 
+   Montserrat;
+}
+
+.HeaderLine2{
+   font-size: 24px;
+   font-weight: 700;
+   text-align: center;
+   line-height: 32px;
+   cursor: pointer;
+   letter-spacing: 0.1px;
+   color:  #252B42;
+   font-family: 
+   Montserrat;
+}
+
+.HeaderLineP{
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 20px;
+   text-align: center;
+   cursor: pointer;
+   letter-spacing: 0.2px;
+   color: #737373;
+   font-family: 
+   Montserrat;
+}
+
+.ContainerCards{
+   width: 1038px;
+   height: 860px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 10px;
+   padding: 25px;
+   justify-content: space-between;
+}
+
+.CardsLists{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.CardsItems{
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   flex-direction: column;
+}
+
+.styleH3{
+   font-size: 16px;
+   font-weight: 700;
+   text-align: center;
+   letter-spacing: 0.1px;
+   color: #252B42;
+   cursor: pointer;
+   line-height: 24px;
+}
+
+.styleP{
+   font-size: 14px;
+   font-weight: 700;
+   text-align: center;
+   letter-spacing: 0.2px;
+   color: #737373;
+   line-height: 24px;
+  cursor: pointer;
+}
+
+.CardsPayment{
+   width: 108px;
+   display: flex;
+   flex-wrap: wrap;
+   padding: 5px, 3px, 5px, 3px;
+   justify-content: space-between;
+}
+
+.PaymentColor1{
+   font-size: 16px;
+   font-weight: 700;
+   text-align: center;
+   color: #BDBDBD;
+   letter-spacing: 0.1px;
+  line-height: 24px;
+  cursor: pointer;
+}
+
+.PaymentColor2{
+   font-size: 16px;
+   font-weight: 700;
+   text-align: center;
+   color: #23856D;
+   letter-spacing: 0.1px;
+  line-height: 24px;
+  cursor: pointer;
+}

@@ -1,0 +1,146 @@
+.SectionDContainer{
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   flex-direction: column;
+}
+
+.SectionDHeader{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.HeaderParagrph{
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   cursor: pointer;
+   text-align: center;
+   color: #23A6F0;
+   letter-spacing: 0.2px;
+}
+
+.headerH1{
+   font-size: 40px;
+   font-weight: 700;
+   color: #252B42;
+   line-height: 50px;
+   cursor: pointer;
+   letter-spacing: 0.2px;
+}
+
+.SectionDCardList{
+   width: 1080px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 30px;
+   margin-bottom: 40px;
+   justify-content: space-between;
+}
+
+.SectionCardsLists{
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   flex-direction: column;
+}
+
+.ListsButton{
+   width: 160px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-left: -110px;
+   justify-content: space-between;
+}
+
+.SectionDButtons{
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  cursor: pointer;
+  letter-spacing: 0.2px;
+  color: #8EC2F2;
+}
+
+.SectionDButton{
+   font-size: 12px;
+   font-weight: 400;
+   line-height: 16px;
+   cursor: pointer;
+   letter-spacing: 0.2px;
+   color: #737373;
+ }
+ 
+.ListButtonH1{
+   width: 280px;
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 30px;
+   cursor: pointer;
+   color: #252B42;
+   letter-spacing: 0.2px;
+}
+
+.ListButtonParagrh{
+   width: 280px;
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 20px;
+   cursor: pointer;
+   color: #737373;
+   letter-spacing: 0.2px;
+}
+
+.SectionDTimmer{
+   width: 289px;
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+.SectionDClock{
+   width: 110px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.SectionDComment{
+   width: 110px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.ClockGallary{
+   width: 90px;
+   font-size: 12px;
+   font-weight: 400;
+   line-height: 16px;
+   cursor: pointer;
+   color: #737373;
+   letter-spacing: 0.2px;
+}
+
+.SectionDClick{
+   width: 105px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-left: -170px;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.SectionDLearn{
+   font-size: 14px;
+   font-weight: 700;
+   cursor: pointer;
+   line-height: 24px;
+   letter-spacing: 0.3px;
+}

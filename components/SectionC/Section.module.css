@@ -1,0 +1,96 @@
+.SectionCContainer{
+   display: flex;
+   flex-wrap: wrap;
+   align-content: center;
+   flex-direction: column;
+}
+
+.SectionBHeader{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.HeaderLine{
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  font-weight: 400;
+  cursor: pointer;
+  color: #737373;
+  letter-spacing: 0.2px;
+  font-family: 
+  Montserrat;
+}
+
+.HeaderLine2{
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+  line-height: 32px;
+  cursor: pointer;
+  letter-spacing: 0.1px;
+  color:  #252B42;
+  font-family: 
+  Montserrat;
+}
+
+.HeaderLineP{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: center;
+  cursor: pointer;
+  letter-spacing: 0.2px;
+  color: #737373;
+  font-family: 
+  Montserrat;
+}
+
+.SectionCImages{
+   display: flex;
+   flex-wrap: wrap;
+   margin-bottom: 30px;
+   justify-content: center;
+}
+
+.SectionCImagesList{
+   width: 1050px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 30px;
+   justify-content: space-between;
+}
+
+.SectionCImageItems{
+   width: 315px;
+   height: 254px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   flex-direction: column;
+}
+
+.ImagesH1{
+   font-size: 24px;
+   font-weight: 700;
+   line-height: 32px;
+   text-align: center;
+   letter-spacing: 0.1px;
+   cursor: pointer;
+   color: #252B42;
+}
+
+.ImagesParagrap{
+   width: 225px;
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 20px;
+   cursor: pointer;
+   text-align: center;
+   color: #737373;
+   letter-spacing: 0.2px;
+}
+
