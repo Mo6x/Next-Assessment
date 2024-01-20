@@ -31,7 +31,7 @@
    height: 26px;
    display: flex;
    flex-wrap: wrap;
-   margin-top: 20px;
+   margin-top: 24px;
    justify-content: space-between;
 }
 
@@ -45,12 +45,41 @@
    text-decoration-line: none;
 }
 
+.linklistForm{
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   text-align: center;
+   letter-spacing: 0.2px;
+   color: #23A6F0;
+   text-decoration-line: none;
+}
+
 .RegisterForm{
    width: 324px;
    height: 26px;
    display: flex;
    flex-wrap: wrap;
-   margin-top: 20px;
+   margin-top: 25px;
    justify-content: space-between;
 }
 
+.NavForms{
+   width: 150px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.NavIcons{
+   width: 150px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.NavIconColors{
+   color: #23A6F0;
+}

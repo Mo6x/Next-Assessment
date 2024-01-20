@@ -1,5 +1,9 @@
 import React from "react";
 import Link from "next/link";
+import PersonIcon from "@mui/icons-material/Person";
+import SearchIcon from "@mui/icons-material/Search";
+import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
+import FavoriteIcon from "@mui/icons-material/Favorite";
 import styles from "./Nav.module.css";
 
 
@@ -22,9 +26,17 @@ import styles from "./Nav.module.css";
           <Link href="https://twitter.com/" className={styles.linklist} passHref>Pages</Link>
         </div>
         <div className={styles.RegisterForm}>
-         <Link href="https://twitter.com/" className={styles.linklist} passHref>Login</Link>
-           /
-          <Link href="https://twitter.com/" className={styles.linklist} passHref>Register</Link>
+          <div className={styles.NavForms}>
+            <PersonIcon className={styles.NavIconColors} />
+            <Link href="https://twitter.com/" className={styles.linklistForm} passHref>Login</Link>
+              /
+            <Link href="https://twitter.com/" className={styles.linklistForm} passHref>Register</Link>
+          </div>
+          <div className={styles.NavIcons}>
+            <SearchIcon className={styles.NavIconColors} />
+            <ShoppingCartIcon className={styles.NavIconColors} />
+            <FavoriteIcon className={styles.NavIconColors} />
+          </div>
         </div>
       </div>
     </div>

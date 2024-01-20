@@ -117,7 +117,7 @@
    height: 26px;
    display: flex;
    flex-wrap: wrap;
-   margin-top: 20px;
+   margin-top: 24px;
    justify-content: space-between;
 }
 
@@ -132,16 +132,45 @@
            text-decoration-line: none;
 }
 
+.Nav_linklistForm__2fQvf{
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   text-align: center;
+   letter-spacing: 0.2px;
+   color: #23A6F0;
+   -webkit-text-decoration-line: none;
+           text-decoration-line: none;
+}
+
 .Nav_RegisterForm__exSxz{
    width: 324px;
    height: 26px;
    display: flex;
    flex-wrap: wrap;
-   margin-top: 20px;
+   margin-top: 25px;
    justify-content: space-between;
 }
 
+.Nav_NavForms__MFkul{
+   width: 150px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: space-between;
+}
 
+.Nav_NavIcons__S1wN4{
+   width: 150px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.Nav_NavIconColors__NXapH{
+   color: #23A6F0;
+}
 /*!**********************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./components/SectionA/Section.module.css ***!
   \**********************************************************************************************************************************************************************************************************************************************************************************/
@@ -256,6 +285,7 @@
    flex-wrap: wrap;
    margin-top: 10px;
    padding: 25px;
+   margin-bottom: 150px;
    justify-content: space-between;
 }
 
@@ -319,6 +349,21 @@
   line-height: 24px;
   cursor: pointer;
 }
+
+.Section_SectionBButton__qZiPK{
+    width: 261px;
+    padding: 25px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 390px;
+    text-align: center;
+    border-radius: 10px;
+    color: #23A6F0;
+    border: 1px solid #23A6F0;
+    background-color: #FFFFFF;
+}
+
 /*!**********************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./components/SectionC/Section.module.css ***!
   \**********************************************************************************************************************************************************************************************************************************************************************************/
@@ -469,7 +514,10 @@
    display: flex;
    flex-wrap: wrap;
    align-items: center;
+   border-radius: 5px;
    flex-direction: column;
+   border: 1px solid #ccc;
+   box-shadow: 0 0 1px rgba(0, 0, 0, 0.2);
 }
 
 .Section_ListsButton__OlKE9{

@@ -1,4 +1,6 @@
+"use client";
 import React from "react";
+import { useRouter } from "next/navigation";
 import Image from "next/image";
 import DesignOne from "../../public/DesignOne.png";
 import DesignTwo from "../../public/DesignTwo.png";
@@ -14,8 +16,12 @@ import Styles from "./Section.module.css"
 
 
 
-const SectionB = () => {
+const SectionB: React.FC = () => {
+  const router = useRouter();
 
+  const handleLoadMoreClick = () => {
+    router.push('/product');
+  };
 
   return (
     <div className={Styles.SectionBContainer}>
@@ -136,7 +142,9 @@ const SectionB = () => {
                </div>
             </div>
           </div>
-
+          <button className={Styles.SectionBButton} onClick={handleLoadMoreClick}>
+           LOAD MORE PRODUCTS
+          </button>
        </div>
     </div>
   )
